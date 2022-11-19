@@ -8,7 +8,7 @@ export const StyledStory = styled.div`
   @media (max-width: 375px) {
     display: flex;
     flex-direction: column;
-    width: 375px;
+    width: 100vh;
     align-items: center;
     justify-content: center;
   }

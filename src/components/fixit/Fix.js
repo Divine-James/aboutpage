@@ -40,7 +40,7 @@ export default function Fix() {
       </StyledFixHeader>
       <StyledFixBox>
         <StyledFixCenter>
-          <StyledFixImg src="assets/img/Trust.jpg" alt="trust" />
+          <StyledFixImg src="assets/img/Trust.png" alt="trust" />
           <StyledColorOrange>Trust</StyledColorOrange>
           <StyledFixp>
             <p>
@@ -50,7 +50,7 @@ export default function Fix() {
           </StyledFixp>
         </StyledFixCenter>
         <StyledFixCenter>
-          <StyledFixImg src="assets/img/Convenience.jpg" alt="convenience" />
+          <StyledFixImg src="assets/img/Convenience.png" alt="convenience" />
           <StyledColorOrange>Convience</StyledColorOrange>
           <StyledFixp>
             <p>
@@ -62,7 +62,7 @@ export default function Fix() {
         </StyledFixCenter>
         <StyledFixCenter>
           <StyledFixImg
-            src="assets/img/Professionalism.jpg"
+            src="assets/img/Professionalism.png"
             alt="professionals"
           />
           <StyledColorOrange> Professionalism</StyledColorOrange>

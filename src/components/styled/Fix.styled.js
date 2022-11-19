@@ -22,8 +22,8 @@ export const StyledFixCenter = styled.div`
   border-radius: 8px;
 `;
 export const StyledFixImg = styled.img`
-  width: 300px;
-  height: 150px;
+  width: 304px;
+  height: 253px;
   border-radius: 8px;
 `;
 export const StyledFixBox = styled.div`
