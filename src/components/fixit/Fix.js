@@ -19,7 +19,7 @@ export default function Fix() {
       </StyledFixHeader>
       <StyledFixBox>
         <StyledFixCenter>
-          <StyledFixImg src="assets/images/Trust.png" alt="trust" />
+          <StyledFixImg src="assets/img/Trust.png" alt="trust" />
           <StyledColorOrange>Trust</StyledColorOrange>
           <StyledFixp>
             <Plato>
@@ -29,7 +29,7 @@ export default function Fix() {
           </StyledFixp>
         </StyledFixCenter>
         <StyledFixCenter>
-          <StyledFixImg src="assets/images/Convenience.png" alt="convenience" />
+          <StyledFixImg src="assets/img/Convenience.png" alt="convenience" />
           <StyledColorOrange>Convience</StyledColorOrange>
           <StyledFixp>
             <Plato>
@@ -41,7 +41,7 @@ export default function Fix() {
         </StyledFixCenter>
         <StyledFixCenter>
           <StyledFixImg
-            src="assets/images/Professionalism.png"
+            src="assets/img/Professionalism.png"
             alt="professionals"
           />
           <StyledColorOrange> Professionalism</StyledColorOrange>
