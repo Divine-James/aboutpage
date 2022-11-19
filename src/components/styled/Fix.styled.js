@@ -69,3 +69,13 @@ export const StyledFixp = styled.div`
   height: 100%;
   padding-left: 10px;
 `;
+export const Plato = styled.p`
+  @import url
+  (
+    "https://fonts.googleapis.com/css?family=Lato:400,700" rel= "stylesheet"
+      type= "text/css"
+  );
+  font-weight: semi-bold;
+  font-size: 16px;
+  font-family: "lato", sans-serif;
+`;
