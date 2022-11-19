@@ -33,7 +33,7 @@ export const StyledHeroMsg = styled.div`
 //export const StyledHeroHead = styled.h1``
 export const StyledHerotxt = styled.p`
   width: 550px;
-  font-size: 14px;
+  font-size: 16px;
   font weight: 700;
   @media (max-width: 375px){
     width: 375px;
@@ -42,7 +42,7 @@ export const StyledHerotxt = styled.p`
 export const StyledHerotxtSpan = styled.p`
   width: 500px;
   margin: 10px 0;
-  font-size: 14px;
+  font-size: 16px;
   font weight: 700;
   @media (max-width: 375px){
     width: 375px;

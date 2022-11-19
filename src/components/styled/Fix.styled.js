@@ -3,6 +3,8 @@ export const StyledFixHeader = styled.h1`
   display: flex;
   justify-content: center;
   margin-top: 64px;
+  font-size: 28px;
+  font-weight: bold;
 `;
 export const StyledFixCenter = styled.div`
   display: flex;
@@ -47,6 +49,8 @@ export const StyledColorBlue = styled.span`
 export const StyledColorOrange = styled.h2`
   color: orange;
   margin-left: 10px;
+  font-size: 22px;
+  font-weight: semi-bold;
 `;
 export const StyledFixp = styled.div`
   width: 250px;

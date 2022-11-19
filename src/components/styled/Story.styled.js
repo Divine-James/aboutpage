@@ -9,7 +9,6 @@ export const StyledStory = styled.div`
     display: flex;
     flex-direction: column;
     width: 375px;
-    padding: 40px 0;
     align-items: center;
     justify-content: center;
   }

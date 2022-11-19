@@ -44,4 +44,6 @@ export const Blue = styled.p`
   color: #233ba9;
   font-size: 20px;
   margin-top: 100px;
+  font-size: 28px;
+  font-weight: bold;
 `;
