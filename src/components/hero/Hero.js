@@ -21,7 +21,7 @@ export default function Hero() {
         <MobImg
           src="assets/img/Hero-image-Mobile.png"
           alt="hero"
-          width="540px"
+          width="375px"
         />
         <StyledHeroMsg>
           <StyledBlue>
