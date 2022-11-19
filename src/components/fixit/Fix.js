@@ -54,9 +54,9 @@ export default function Fix() {
           <StyledColorOrange>Convience</StyledColorOrange>
           <StyledFixp>
             <p>
-              our site is quite easy to use through simple steps: sign up, lodge
+              Our site is quite easy to use through simple steps: sign up, lodge
               your complaint, then sit back and view the real-time status
-              updates on your dashboard,while we Fixit for you
+              updates on your dashboard, while we FixIt for you
             </p>
           </StyledFixp>
         </StyledFixCenter>
