@@ -1,5 +1,10 @@
 import styled from "styled-components";
 export const StyledHero = styled.div`
+  @import url
+  (
+    "https://fonts.googleapis.com/css?family=Lato:400,700" rel= "stylesheet"
+      type= "text/css"
+  );
   display: flex;
   justify-content: space-between;
   @media (max-width: 375px) {
@@ -34,6 +39,7 @@ export const StyledHeroMsg = styled.div`
 export const StyledHerotxt = styled.p`
   width: 550px;
   font-size: 16px;
+  font-family: "lato", sans-serif;
   font weight: 700;
   @media (max-width: 375px){
     width: 375px;
@@ -44,6 +50,7 @@ export const StyledHerotxtSpan = styled.p`
   margin: 10px 0;
   font-size: 16px;
   font weight: 700;
+  font-family: "lato", sans-serif;
   @media (max-width: 375px){
     width: 375px;
   }
@@ -54,6 +61,7 @@ export const StyledOrange = styled.span`
 export const StyledBlue = styled.h1`
   color: #233ba9;
   font-size: 57px;
+  font-family: "lato", sans-serif;
   @media (max-width: 375px) {
     font-size: 32px;
   }

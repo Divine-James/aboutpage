@@ -1,10 +1,16 @@
 import styled from "styled-components";
 export const StyledFixHeader = styled.h1`
+  @import url
+  (
+    "https://fonts.googleapis.com/css?family=Lato:400,700" rel= "stylesheet"
+      type= "text/css"
+  );
   display: flex;
   justify-content: center;
   margin-top: 64px;
   font-size: 28px;
   font-weight: bold;
+  font-family: "lato", sans-serif;
 `;
 export const StyledFixCenter = styled.div`
   display: flex;
@@ -51,6 +57,7 @@ export const StyledColorOrange = styled.h2`
   margin-left: 10px;
   font-size: 22px;
   font-weight: semi-bold;
+  font-family: "lato", sans-serif;
 `;
 export const StyledFixp = styled.div`
   width: 250px;

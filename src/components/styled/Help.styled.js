@@ -15,6 +15,11 @@ export const StyledBgImgDesktop = styled.div`
 `;
 
 export const StyledCenter = styled.div`
+  @import url
+  (
+    "https://fonts.googleapis.com/css?family=Lato:400,700" rel= "stylesheet"
+      type= "text/css"
+  );
   display: flex;
   justify-content: center;
   postition: absolute;
@@ -46,6 +51,7 @@ export const Blue = styled.p`
   margin-top: 100px;
   font-size: 28px;
   font-weight: bold;
+  font-family: "lato", sans-serif;
   width: 532px;
   height: 42px;
   @media (max-width: 375px) {

@@ -1,5 +1,11 @@
 import styled from "styled-components";
+
 export const StyledStory = styled.div`
+  @import url
+  (
+    "https://fonts.googleapis.com/css?family=Lato:400,700" rel= "stylesheet"
+      type= "text/css"
+  );
   display: flex;
   justify-content: space-between;
   padding: 40px 50px;
@@ -16,10 +22,12 @@ export const StyledStory = styled.div`
 export const StoryHead = styled.h1`
   font-size: 28px;
   font-weight: bold;
+  font-family: "lato", sans-serif;
 `;
 export const StoryP = styled.p`
-font-size: 16px;
-font-weight: bold:
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "lato", sans-serif;
 `;
 export const StyledStorytxt = styled.div`
   margin-right: 20px;
