@@ -26,6 +26,8 @@ export const StyledHeroMsg = styled.div`
   @media (max-width: 375px) {
     padding: 0 20px;
     align-items: center;
+    justify-content: center;
+    width: 100%;
   }
 `;
 //export const StyledHeroHead = styled.h1``
@@ -52,4 +54,7 @@ export const StyledOrange = styled.span`
 export const StyledBlue = styled.h1`
   color: #233ba9;
   font-size: 57px;
+  @media (max-width: 375px) {
+    font-size: 32px;
+  }
 `;
