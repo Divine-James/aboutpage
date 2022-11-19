@@ -12,6 +12,9 @@ body{
     font-family: 'Lato', sans-serif;
     font-size: 1.15em;
     margin: 0;
+    @media(max-width: 375px){
+        width: 375px;
+    }
 }
 p{
     line-height: 1.5;

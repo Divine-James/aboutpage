@@ -35,10 +35,19 @@ export const StyledHeroMsg = styled.div`
     width: 370px;
   }
 `;
-//export const StyledHeroHead = styled.h1``
+export const StyledBtn = styled.button`
+  padding: 12px 24px;
+
+  width: 130px;
+  height: 48px;
+
+  background: #233ba9;
+  border-radius: 4px;
+`;
 export const StyledHerotxt = styled.p`
   width: 550px;
   font-size: 16px;
+  margin-top: 24px;
   font-family: "lato", sans-serif;
   font weight: 700;
   @media (max-width: 375px){
