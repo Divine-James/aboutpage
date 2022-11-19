@@ -4,6 +4,7 @@ export const StyledStory = styled.div`
   justify-content: space-between;
   padding: 40px 50px;
   background-color: #eef1fc;
+  width: 644px;
   @media (max-width: 375px) {
     display: flex;
     flex-direction: column;
