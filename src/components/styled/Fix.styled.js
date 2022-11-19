@@ -37,7 +37,7 @@ export const StyledFixBox = styled.div`
   justify-content: space-between;
   width: 1020px;
   margin: 0 auto;
-  margin-top: 20px;
+  margin-top: 32px;
   @media (max-width: 375px) {
     display: flex;
     flex-direction: column;
@@ -53,6 +53,11 @@ export const StyledColorBlue = styled.span`
   color: blue;
 `;
 export const StyledColorOrange = styled.h2`
+  @import url
+  (
+    "https://fonts.googleapis.com/css?family=Lato:400,700" rel= "stylesheet"
+      type= "text/css"
+  );
   color: orange;
   margin-left: 10px;
   font-size: 22px;

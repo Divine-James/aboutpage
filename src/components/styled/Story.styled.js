@@ -8,7 +8,7 @@ export const StyledStory = styled.div`
   );
   display: flex;
   justify-content: space-between;
-  padding: 40px 50px;
+  padding: 56px 64px;
   background-color: #eef1fc;
   width: 100%;
   @media (max-width: 375px) {
@@ -25,6 +25,7 @@ export const StoryHead = styled.h1`
   font-family: "lato", sans-serif;
 `;
 export const StoryP = styled.p`
+  margin-top: 40px;
   font-size: 16px;
   font-weight: bold;
   font-family: "lato", sans-serif;
