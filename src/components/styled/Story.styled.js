@@ -9,7 +9,14 @@ export const StyledStory = styled.div`
     flex-direction: column;
   }
 `;
-
+export const StoryHead = styled.h1`
+  font-size: 28px;
+  font-weight: bold;
+`;
+export const StoryP = styled.p`
+font-size: 16px;
+font-weight: bold:
+`;
 export const StyledStorytxt = styled.div`
   margin-right: 20px;
   width: 556px;
