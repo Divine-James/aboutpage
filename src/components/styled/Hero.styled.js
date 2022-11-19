@@ -37,10 +37,11 @@ export const StyledHeroMsg = styled.div`
 `;
 export const StyledBtn = styled.button`
   padding: 12px 24px;
-
+border: none
   width: 130px;
   height: 48px;
-
+color: white;
+margin-top: 64px;
   background: #233ba9;
   border-radius: 4px;
 `;
