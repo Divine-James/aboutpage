@@ -27,7 +27,7 @@ export const StyledHeroMsg = styled.div`
     padding: 0 20px;
     align-items: center;
     justify-content: center;
-    width: 100%;
+    width: 370px;
   }
 `;
 //export const StyledHeroHead = styled.h1``
