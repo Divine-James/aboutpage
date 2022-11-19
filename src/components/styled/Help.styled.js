@@ -52,7 +52,7 @@ export const Blue = styled.p`
   font-size: 28px;
   font-weight: bold;
   font-family: "lato", sans-serif;
-  width: 532px;
+  width: 540px;
   height: 42px;
   @media (max-width: 375px) {
     width: 287px;
