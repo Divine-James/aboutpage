@@ -2,7 +2,7 @@ import { createGlobalStyle } from "styled-components";
 
 const GlobalStyles = createGlobalStyle`
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
-@import url ('http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css')
+@import url ('https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css')
 *{
     box-sizing:border-box;
 }
