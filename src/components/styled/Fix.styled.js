@@ -76,6 +76,6 @@ export const Plato = styled.p`
       type= "text/css"
   );
   font-weight: semi-bold;
-  font-size: 16px;
+  font-size: 14px;
   font-family: "lato", sans-serif;
 `;
