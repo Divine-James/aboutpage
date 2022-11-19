@@ -66,8 +66,6 @@ export const StyledColorOrange = styled.h2`
   font-family: "lato", sans-serif;
 `;
 export const StyledFixp = styled.div`
-  width: 250px;
-  height: 100%;
   padding-left: 10px;
 `;
 export const Plato = styled.p`
