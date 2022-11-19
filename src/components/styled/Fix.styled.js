@@ -15,8 +15,8 @@ export const StyledFixCenter = styled.div`
   padding: 0px 0px 24px;
   gap: 16px;
 
-  width: 300px;
-  height: 426px;
+  width: 304px;
+  height: 447px;
 
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 8px;
