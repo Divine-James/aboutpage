@@ -39,7 +39,7 @@ export const Btn = styled.button`
   justify-content: center;
   align-items: center;
   padding: 12px 24px;
-
+  color: white;
   width: 130px;
   height: 48px;
   background: #233ba9;
