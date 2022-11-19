@@ -46,4 +46,10 @@ export const Blue = styled.p`
   margin-top: 100px;
   font-size: 28px;
   font-weight: bold;
+  width: 532px;
+  height: 42px;
+  @media (max-width: 375px) {
+    width: 287px;
+    height: 84px;
+  }
 `;
