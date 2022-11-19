@@ -6,6 +6,17 @@ export const StyledHero = styled.div`
     flex-direction: column-reverse;
   }
 `;
+export const DeskImg = styled.img`
+@media (max-width: 375px){
+  display: none
+}
+`
+export const MobImg = styled.img`
+display: none;
+@media(max-width: 375px){
+  display: Block;
+}
+`
 export const StyledHeroMsg = styled.div`
   display: flex;
   flex-direction: column;

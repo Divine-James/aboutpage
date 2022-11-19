@@ -4,6 +4,8 @@ import {
   StyledHerotxt,
   StyledHerotxtSpan,
   StyledOrange,
+  MobImg,
+  DeskImg,
   StyledBlue,
 } from "../styled/Hero.styled";
 
@@ -11,7 +13,16 @@ export default function Hero() {
   return (
     <>
       <StyledHero>
-        <img src="assets/img/Hero-image-Desktop.png" alt="hero" width="540px" />
+        <DeskImg
+          src="assets/img/Hero-image-Desktop.png"
+          alt="hero"
+          width="540px"
+        />
+        <MobImg
+          src="assets/img/Hero-image-Mobile.png"
+          alt="hero"
+          width="540px"
+        />
         <StyledHeroMsg>
           <StyledBlue>
             Who Are <StyledOrange>We</StyledOrange>?
