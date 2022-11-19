@@ -51,6 +51,7 @@ export const StyledColor = styled.span`
 `;
 export const StyledColorBlue = styled.span`
   color: blue;
+  margin-left: 1px;
 `;
 export const StyledColorOrange = styled.h2`
   @import url
