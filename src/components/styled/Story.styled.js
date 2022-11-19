@@ -25,7 +25,7 @@ export const StyledStorytxt = styled.div`
   margin-right: 20px;
   width: 556px;
   @media (max-width: 375px) {
-    width: 375px;
+    width: 370px;
   }
 `;
 export const StoryImg = styled.img`
