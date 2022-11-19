@@ -8,6 +8,7 @@ export const StyledStory = styled.div`
   @media (max-width: 375px) {
     display: flex;
     flex-direction: column;
+    width: 375px;
   }
 `;
 export const StoryHead = styled.h1`
