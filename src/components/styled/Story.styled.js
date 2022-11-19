@@ -25,11 +25,12 @@ export const StyledStorytxt = styled.div`
   margin-right: 20px;
   width: 556px;
   @media (max-width: 375px) {
-    width: 100%;
+    width: 375px;
   }
 `;
 export const StoryImg = styled.img`
   @media (max-width: 375px) {
     display: none;
+    visibility: none;
   }
 `;
