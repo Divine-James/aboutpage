@@ -14,11 +14,7 @@ export default function Hero() {
   return (
     <>
       <StyledHero>
-        <DeskImg
-          src="assets/img/Hero-image-Desktop.png"
-          alt="hero"
-          width="540px"
-        />
+        <DeskImg src="assets/img/Hero-image-Desktop.png" alt="hero" />
         <MobImg
           src="assets/img/Hero-image-Mobile.png"
           alt="hero"

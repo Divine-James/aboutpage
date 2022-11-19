@@ -12,6 +12,8 @@ export const StyledHero = styled.div`
   }
 `;
 export const DeskImg = styled.img`
+  width: 539.68px;
+  height: 597.83px;
   @media (max-width: 375px) {
     display: none;
   }
