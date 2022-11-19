@@ -22,6 +22,7 @@ export const StyledHeroMsg = styled.div`
   flex-direction: column;
   justify-content: center;
   padding-right: 70px;
+  width: 650px;
   @media (max-width: 375px) {
     padding: 0 20px;
     align-items: center;
